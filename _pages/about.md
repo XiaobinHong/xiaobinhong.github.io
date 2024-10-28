@@ -13,4 +13,4 @@ I am very fortunate to be advised by [Prof. Wenzhong Li](https://cs.nju.edu.cn/l
 
 You can find my CV here: [Xiaobin's CV](../assert/XiaobinHong_CV_en.pdf) (Till 7/2024).
 
-[Email](xiaobinhong@smail.nju.edu.cn) / [Github](https://github.com/XiaobinHong) / Wechat / [CSDN](https://blog.csdn.net/niaoyixiao6025?spm=1000.2115.3001.5343)
+[Email](xiaobinhong@smail.nju.edu.cn) / [Github](https://github.com/XiaobinHong) / [Google Scholar](https://scholar.google.com/citations?user=p305PuwAAAAJ&hl=zh-CN)
