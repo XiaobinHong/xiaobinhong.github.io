@@ -11,6 +11,6 @@ I'm a third year PhD student from [School of Computer Science](https://cs.nju.ed
 
 I am very fortunate to be advised by [Prof. Wenzhong Li](https://cs.nju.edu.cn/lwz/) of DisLab Lab from [School of Computer Science](https://dislab.nju.edu.cn/), Nanjing University. I was advised by [Prof. Zhen Cui](https://vgg-ai.cn/teachers/CuiZhen/) from Nanjing University of Science and Technology.
 
-You can find my CV here: Curriculum Vitae.
+You can find my CV here: [Xiaobin's CV](../assert/XiaobinHong_CV_en.pdf) (Till 7/2024).
 
 [Email](xiaobinhong@smail.nju.edu.cn) / [Github](https://github.com/XiaobinHong) / Wechat / [CSDN](https://blog.csdn.net/niaoyixiao6025?spm=1000.2115.3001.5343)
